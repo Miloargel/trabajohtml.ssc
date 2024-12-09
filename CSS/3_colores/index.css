@@ -1,0 +1,12 @@
+.parrafo-color-beige {
+    background-color: #f5f5dc;
+    color: rgb(130, 62, 3);
+}
+
+.parrafo-color-beige .transparente {
+    color: rgba(130, 62, 3, 0.5)
+}
+
+.cuerpo-noticia {
+    background-color: hsla(0, 0%, 100%, 0.8);
+}

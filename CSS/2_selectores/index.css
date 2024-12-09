@@ -1,0 +1,29 @@
+h4,h5,h6 {
+    color: red;
+    text-transform: uppercase;
+}
+h4,h5,h6 {
+    color: blue;
+}
+
+#id-p-prueba {
+    font-size: 40px;
+}
+
+.size-40 {
+    font-size: 40px;
+}
+
+p>span {
+    color: blue;
+}
+
+p a {
+    color: green;
+}
+
+h2+p {
+    color: purple;
+}
+
+a[href="http://www.ejemplo.com"] { color: brown; }

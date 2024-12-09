@@ -1,0 +1,18 @@
+.example {
+    background-color: aqua;
+    margin-top: 50px;
+    border: 10px solid red;
+    border-style: solid dotted double dashed;
+    border-top: 30px solid;
+    padding: 30px;
+    width: 500px;
+    height: 500px;
+}
+
+.border-box {
+    box-sizing: border-box;
+}
+
+.content-box {
+    box-sizing: content-box;
+}
